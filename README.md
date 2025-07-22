@@ -79,6 +79,10 @@ plt.show()
 - Promote Cluster 0 for premium ads or Zomato Gold partnerships.
 - For Cluster 1, suggest promotional campaigns or UI improvements.
 - Cluster 2 restaurants need quality and service improvements.
+- Use targeted marketing based on cluster performance
+- Partner with high-performing restaurants for Zomato Gold and premium ads.
+- Encourage poor performers to improve by highlighting key improvement areas (cost, reviews, etc.).
 ## Conclusion
 - Successfully segmented restaurants using unsupervised learning.
 - Provided actionable strategies for improving business outcomes based on clustering.
+- Extracted valuable sentiment and performance-based groupings.
